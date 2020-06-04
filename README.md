@@ -50,7 +50,7 @@ The default title with no markup is displayed if there is no `HTML_title` custom
 
 ## Screengrabs
 
-![Example result](https://raw.githubusercontent.com/marklchaves/html-titles-for-pages-and-posts/master/screengrabs/html-titles-for-pages-and-posts-screengrab.png "Example result")
+![Example result](https://raw.githubusercontent.com/marklchaves/html-titles-for-pages-and-posts/master/screengrabs/html-titles-for-pages-and-posts-screengrab-1280w.jpg "Example result")
 
 ---
 
