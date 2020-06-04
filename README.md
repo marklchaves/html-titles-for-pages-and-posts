@@ -1,4 +1,4 @@
-# Html Titles For Pages And Posts Plugin
+# HTML Titles For Pages And Posts Plugin
 
 Contributors: mark l chaves
 
