@@ -26,7 +26,7 @@ Tested up to: 5.4.2
 
 ## Usage
 
-1. Add a custom field to your post or page.
+1. Add a [custom field](https://wordpress.org/support/article/custom-fields/) to your post or page.
 1. Name the custom field `HTML_title`.
 1. Add your custom title with HTML to the value field. See the example markup below.
 
